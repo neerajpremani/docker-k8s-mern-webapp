@@ -1,2 +1,2 @@
 # docker-k8s-mern-webapp
-Docker and Kubernetes for webapp deployment
+Docker and Kubernetes for webapp deployment on GCP-GKE
